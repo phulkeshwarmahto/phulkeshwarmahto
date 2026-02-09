@@ -110,7 +110,7 @@ Building scalable, real-world applications with clean architecture
   <a href="https://github.com/phulkeshwarr">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/phulkeshwar">
+  <a href="https://linkedin.com/in/phulkeshwar">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
