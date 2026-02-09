@@ -68,7 +68,7 @@ Building scalable, real-world applications with clean architecture
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=phulkeshwarr&show_icons=true&count_private=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=phulkeshwarmahto &show_icons=true&count_private=true&theme=tokyonight" 
   />
 </p>
 
@@ -78,7 +78,7 @@ Building scalable, real-world applications with clean architecture
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulkeshwarr&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulkeshwarmahto &layout=compact&theme=tokyonight" 
   />
 </p>
 
@@ -98,7 +98,7 @@ Building scalable, real-world applications with clean architecture
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=phulkeshwarr&theme=onedark&margin-w=10" 
+    src="https://github-profile-trophy.vercel.app/?username=phulkeshwar&theme=onedark&margin-w=10" 
   />
 </p>
 
