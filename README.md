@@ -87,7 +87,7 @@ Building scalable, real-world applications with clean architecture
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwarr&theme=tokyo-night" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=phulkeshwarmahto&theme=tokyo-night" 
   />
 </p>
 
@@ -97,7 +97,7 @@ Building scalable, real-world applications with clean architecture
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=phulkeshwar&theme=onedark&margin-w=10" 
+    src="https://github-profile-trophy.vercel.app/?username=phulkeshwarmahto&theme=onedark&margin-w=10" 
   />
 </p>
 
