@@ -1,6 +1,10 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
+  <h1 
+    align="right"
+    margin-top=20px
+    >Hi 👋, I'm Phulkeshwar Mahto</h1>
   <img 
     src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png" 
     alt="Phulkeshwar Mahto Banner"
