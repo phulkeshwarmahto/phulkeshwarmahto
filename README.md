@@ -1,17 +1,11 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
-  
   <img 
     src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png" 
     alt="Phulkeshwar Mahto"
     width=full
-    style= "border-radius" 
-    radius=15px <h1 
-    align="right"
-    margin-top=20px
-    >Hi 👋, I'm Phulkeshwar Mahto</h1>
-  />
+    border-radius=15px
 </p>
 
 
