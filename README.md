@@ -4,7 +4,7 @@
 <!--                   BANNER IMAGE                     -->
 <!-- ══════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png" alt="Phulkeshwar Mahto" width="100%" style="border-radius:16px;" />
+<img src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png" alt="Phulkeshwar Mahto" width="180" style="border-radius:16px;" />
 
 <br/>
 
