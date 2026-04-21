@@ -4,7 +4,7 @@
   <img 
     src="https://raw.githubusercontent.com/phulkeshwarr/phulkeshwarr/main/assets/banner.png" 
     alt="Phulkeshwar Mahto Banner"
-    width="150"
+    width=full
     style="border-radius: 5px;"
   />
 </p>
